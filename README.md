@@ -24,6 +24,11 @@ Está desarrollado con principios SOLID
 
 ## Herramientas que usaremos
 * POSTMAN
-* JSONPlaceholder
-* Insomnia.rest (Core)
+* JSONPlaceholder -> [Server](https://github.com/typicode/json-server)
+  * Start JSON Server: json-server --watch db.json
+* [Insomnia.rest (Core)](https://insomnia.rest/download)
 * NodeJS
+
+Con JSON-Server levantamos un server en local que simula el consumo de información en un server externo
+
+Con Insomnia podemos hacer un CRUD
